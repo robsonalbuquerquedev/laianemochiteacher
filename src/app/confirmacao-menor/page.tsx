@@ -19,6 +19,7 @@ function InfoSection() {
             <p>📅 <strong>Dia:</strong> 07 de dezembro de 2025</p>
             <p>🕘 <strong>Horário:</strong> 09h às 16h</p>
             <p>💰 <strong>Valor:</strong> R$ 30,00</p>
+            <p>📍 <strong>Local:</strong> Toledo Recepções - Cohab</p>
         </div>
     );
 }
@@ -65,8 +66,11 @@ export default function ConfirmacaoMenorPage() {
                     <InfoSection />
                     <MinorNotice />
 
+                    <p className="text-gray-800 mb-3">
+                        💖 Esperamos por você para viver esse dia incrível de fé e comunhão!
+                    </p>
+
                     <p className="text-indigo-600 font-medium">
-                        💖 Que Deus abençoe sua caminhada!
                         #ConfraCM #Ano3 #JuntosEmCristo
                     </p>
                 </div>

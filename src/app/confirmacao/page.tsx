@@ -19,6 +19,7 @@ function InfoSection() {
             <p>📅 <strong>Dia:</strong> 07 de dezembro de 2025</p>
             <p>🕘 <strong>Horário:</strong> 09h às 16h</p>
             <p>💰 <strong>Valor:</strong> R$ 30,00</p>
+            <p>📍 <strong>Local:</strong> Toledo Recepções - Cohab</p>
         </div>
     );
 }
